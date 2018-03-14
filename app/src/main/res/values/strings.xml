@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DistingguishTrueOrFalse</string>
+    <string name="distingguish_true_false">真假辨别</string>
+</resources>
